@@ -1,0 +1,318 @@
+{
+  "type": "country",
+  "name": "Indonesia",
+  "timestamp": 1657929600000,
+  "numbers": {
+    "infected": 6131413,
+    "recovered": 5947980,
+    "fatal": 156839
+  },
+  "regions": [
+    {
+      "type": "province",
+      "name": "DKI Jakarta",
+      "numbers": {
+        "infected": 1290458,
+        "recovered": 1258360,
+        "fatal": 15332
+      }
+    },
+    {
+      "type": "province",
+      "name": "Jawa Barat",
+      "numbers": {
+        "infected": 1119553,
+        "recovered": 1096477,
+        "fatal": 15876
+      }
+    },
+    {
+      "type": "province",
+      "name": "Jawa Tengah",
+      "numbers": {
+        "infected": 628988,
+        "recovered": 594889,
+        "fatal": 33327
+      }
+    },
+    {
+      "type": "province",
+      "name": "Jawa Timur",
+      "numbers": {
+        "infected": 580321,
+        "recovered": 548090,
+        "fatal": 31661
+      }
+    },
+    {
+      "type": "province",
+      "name": "Banten",
+      "numbers": {
+        "infected": 301808,
+        "recovered": 295467,
+        "fatal": 2936
+      }
+    },
+    {
+      "type": "province",
+      "name": "DI Yogyakarta",
+      "numbers": {
+        "infected": 221297,
+        "recovered": 214934,
+        "fatal": 5909
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kalimantan Timur",
+      "numbers": {
+        "infected": 206592,
+        "recovered": 200732,
+        "fatal": 5716
+      }
+    },
+    {
+      "type": "province",
+      "name": "Bali",
+      "numbers": {
+        "infected": 159986,
+        "recovered": 154254,
+        "fatal": 4577
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sumatera Utara",
+      "numbers": {
+        "infected": 155392,
+        "recovered": 151916,
+        "fatal": 3259
+      }
+    },
+    {
+      "type": "province",
+      "name": "Riau",
+      "numbers": {
+        "infected": 150944,
+        "recovered": 146443,
+        "fatal": 4429
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sulawesi Selatan",
+      "numbers": {
+        "infected": 143718,
+        "recovered": 141143,
+        "fatal": 2477
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sumatera Barat",
+      "numbers": {
+        "infected": 103881,
+        "recovered": 101495,
+        "fatal": 2351
+      }
+    },
+    {
+      "type": "province",
+      "name": "Nusa Tenggara Timur",
+      "numbers": {
+        "infected": 94043,
+        "recovered": 92441,
+        "fatal": 1524
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kalimantan Selatan",
+      "numbers": {
+        "infected": 84631,
+        "recovered": 81871,
+        "fatal": 2537
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sumatera Selatan",
+      "numbers": {
+        "infected": 80663,
+        "recovered": 77216,
+        "fatal": 3347
+      }
+    },
+    {
+      "type": "province",
+      "name": "Lampung",
+      "numbers": {
+        "infected": 74568,
+        "recovered": 70320,
+        "fatal": 4189
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kep. Riau",
+      "numbers": {
+        "infected": 70251,
+        "recovered": 68309,
+        "fatal": 1881
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kep. Bangka Belitung",
+      "numbers": {
+        "infected": 65678,
+        "recovered": 64016,
+        "fatal": 1602
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kalimantan Barat",
+      "numbers": {
+        "infected": 64810,
+        "recovered": 63616,
+        "fatal": 1130
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sulawesi Tengah",
+      "numbers": {
+        "infected": 60842,
+        "recovered": 59101,
+        "fatal": 1726
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kalimantan Tengah",
+      "numbers": {
+        "infected": 56234,
+        "recovered": 54599,
+        "fatal": 1542
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sulawesi Utara",
+      "numbers": {
+        "infected": 51549,
+        "recovered": 50317,
+        "fatal": 1190
+      }
+    },
+    {
+      "type": "province",
+      "name": "Papua",
+      "numbers": {
+        "infected": 48737,
+        "recovered": 48078,
+        "fatal": 580
+      }
+    },
+    {
+      "type": "province",
+      "name": "Kalimantan Utara",
+      "numbers": {
+        "infected": 45324,
+        "recovered": 44461,
+        "fatal": 859
+      }
+    },
+    {
+      "type": "province",
+      "name": "Aceh",
+      "numbers": {
+        "infected": 43712,
+        "recovered": 41489,
+        "fatal": 2217
+      }
+    },
+    {
+      "type": "province",
+      "name": "Jambi",
+      "numbers": {
+        "infected": 38304,
+        "recovered": 37403,
+        "fatal": 881
+      }
+    },
+    {
+      "type": "province",
+      "name": "Nusa Tenggara Barat",
+      "numbers": {
+        "infected": 36132,
+        "recovered": 35215,
+        "fatal": 901
+      }
+    },
+    {
+      "type": "province",
+      "name": "Papua Barat",
+      "numbers": {
+        "infected": 31611,
+        "recovered": 31196,
+        "fatal": 381
+      }
+    },
+    {
+      "type": "province",
+      "name": "Bengkulu",
+      "numbers": {
+        "infected": 29123,
+        "recovered": 28595,
+        "fatal": 520
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sulawesi Tenggara",
+      "numbers": {
+        "infected": 25619,
+        "recovered": 25032,
+        "fatal": 567
+      }
+    },
+    {
+      "type": "province",
+      "name": "Maluku",
+      "numbers": {
+        "infected": 18591,
+        "recovered": 18287,
+        "fatal": 292
+      }
+    },
+    {
+      "type": "province",
+      "name": "Sulawesi Barat",
+      "numbers": {
+        "infected": 15565,
+        "recovered": 15166,
+        "fatal": 393
+      }
+    },
+    {
+      "type": "province",
+      "name": "Maluku Utara",
+      "numbers": {
+        "infected": 14536,
+        "recovered": 14204,
+        "fatal": 330
+      }
+    },
+    {
+      "type": "province",
+      "name": "Gorontalo",
+      "numbers": {
+        "infected": 13906,
+        "recovered": 13413,
+        "fatal": 486
+      }
+    }
+  ]
+}
